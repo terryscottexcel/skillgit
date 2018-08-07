@@ -1,2 +1,6 @@
 this is a new file a.txt,first add.
 add something info here by terry.
+I am workding dev-terry.....
+after fix bug 101,continue working here.
+now,the work is finished.
+
