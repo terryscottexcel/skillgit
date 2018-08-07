@@ -1,1 +1,2 @@
 this is a new file b.txt,first add.
+fix issue-101 in b.txt for bug branch.
